@@ -1,10 +1,12 @@
 javax.annotation
 javax.annotation.security
+javax.annotation.sql
 javax.decorator
 javax.ejb
 javax.ejb.embeddable
 javax.ejb.spi
 javax.el
+javax.enterprise.concurrent
 javax.enterprise.context
 javax.enterprise.context.spi
 javax.enterprise.deploy.model
@@ -88,6 +90,7 @@ javax.validation.groups
 javax.validation.metadata
 javax.validation.spi
 javax.websocket
+javax.websocket.server
 javax.ws.rs
 javax.ws.rs.client
 javax.ws.rs.container
