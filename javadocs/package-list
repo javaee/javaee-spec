@@ -102,6 +102,15 @@ javax.xml.bind.annotation.adapters
 javax.xml.bind.attachment
 javax.xml.bind.helpers
 javax.xml.bind.util
+javax.xml.registry
+javax.xml.registry.infomodel
+javax.xml.rpc
+javax.xml.rpc.encoding
+javax.xml.rpc.handler
+javax.xml.rpc.handler.soap
+javax.xml.rpc.holders
+javax.xml.rpc.server
+javax.xml.rpc.soap
 javax.xml.soap
 javax.xml.ws
 javax.xml.ws.handler
