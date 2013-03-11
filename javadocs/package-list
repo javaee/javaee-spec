@@ -81,7 +81,6 @@ javax.servlet.jsp.jstl.sql
 javax.servlet.jsp.jstl.tlv
 javax.servlet.jsp.tagext
 javax.transaction
-javax.transaction.cdi
 javax.transaction.xa
 javax.validation
 javax.validation.bootstrap
