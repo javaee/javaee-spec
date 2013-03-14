@@ -1,6 +1,12 @@
 javax.annotation
 javax.annotation.security
 javax.annotation.sql
+javax.batch.annotation
+javax.batch.api
+javax.batch.operations
+javax.batch.operations.exception
+javax.batch.runtime
+javax.batch.runtime.context
 javax.decorator
 javax.ejb
 javax.ejb.embeddable
@@ -32,6 +38,8 @@ javax.faces.context
 javax.faces.convert
 javax.faces.el
 javax.faces.event
+javax.faces.flow
+javax.faces.flow.builder
 javax.faces.lifecycle
 javax.faces.model
 javax.faces.render
@@ -85,6 +93,8 @@ javax.transaction.xa
 javax.validation
 javax.validation.bootstrap
 javax.validation.constraints
+javax.validation.constraintvalidation
+javax.validation.executable
 javax.validation.groups
 javax.validation.metadata
 javax.validation.spi
