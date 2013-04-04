@@ -1,7 +1,6 @@
 javax.annotation
 javax.annotation.security
 javax.annotation.sql
-javax.batch.annotation
 javax.batch.api
 javax.batch.api.chunk
 javax.batch.api.chunk.listener
