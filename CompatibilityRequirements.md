@@ -35,11 +35,11 @@ This section defines the kinds of changes that are permissible when
 defining a new version of a specification. The kinds of changes that
 are permissible depend on their impact on each class of users.
 
-1. Impact on vendor implementations: it is expected that a new version
+**1.** Impact on vendor implementations: it is expected that a new version
 of the specification will require existing vendor implementations to be
 modified and extended to implement the new version.
 
-2. Impact on applications: it must not be necessary for applications
+**2.** Impact on applications: it must not be necessary for applications
 that use the existing version to recompile or modify their existing
 code. Changes must be source-code compatible, binary-compatible, and
 behavior-compatible for applications that make use of the previous
@@ -49,7 +49,7 @@ callback interface, will always violate this requirement. Adding a new
 method to an interface that the application uses but does not implement
 will not typically violate this requirement.
 
-3. Impact on wrapper implementations: the same restrictions apply as
+**3.** Impact on wrapper implementations: the same restrictions apply as
 for applications, but are less absolute. It should not be necessary for
 applications that use the existing version to recompile or modify their
 existing code. Changes should be source-code compatible,
@@ -62,7 +62,7 @@ consideration by the specification's expert group.
 
 ## Behaviour compatibility
 
-4. Changes must be behaviour-compatible for applications that make use
+**4.** Changes must be behaviour-compatible for applications that make use
 of the previous version of the specification. This means that
 applications that change to using the new version of the specification
 do not see changes to behaviour that were mandated by the previous
@@ -106,7 +106,7 @@ implementations may throw an exception but were not required to do so,
 then it is permissible for a later version of the specification to make
 such an exception mandatory, or to define new behavior for this case.
 
-5. The only circumstances when it is permissible to break
+**5.** The only circumstances when it is permissible to break
 behavior-compatibility is when there is a serious security or
 functional defect in the behavior defined by the specification. In this
 exceptional case it is permissible to correct the behavior or cause it
@@ -135,7 +135,7 @@ interfaces or methods.
 
 ## Deprecated methods
 
-6. An expert group may decide to designate a method or interface as
+**6.** An expert group may decide to designate a method or interface as
 being "deprecated" when its use is no longer recommended or when the
 expert group considers that a different interface or method should be
 used instead. This can be stated in the specification and in the
@@ -146,7 +146,7 @@ interface.
 
 ## Serialization compatibility
 
-7. Some Java EE specifications define classes that implement the
+**7.** Some Java EE specifications define classes that implement the
 javax.io.Serializable interface.  The
 [Serialization Specification](http://docs.oracle.com/javase/8/docs/platform/serialization/spec/version.html)
 has details on the allowed changes to a class that retain serialization

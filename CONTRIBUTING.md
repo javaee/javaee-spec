@@ -3,17 +3,21 @@
 ---
 
 # Source Code Submissions 
-We welcome your contributions and look forward to collaborating with you. We can only accept source code repository 
-submissions from users who have signed and returned the Oracle 
-Contributor Agreement. You will find details and the agreement to sign at this OTN web page: 
-[Oracle Contributor Agreement](http://www.oracle.com/technetwork/community/oca-486395.html). 
+This project does not produce source code and thus does not accept
+source code submissions.
+See the [other Java EE projects](https://github.com/javaee) to contribute
+source code.
 
-# Other Contrbutions
-For all project Submissions other than source code repository contributions, the following also applies: Oracle does 
-not claim ownership of Your Submissions. However, in order to fulfill 
-the purposes of this project, You must give Oracle and all Users 
-the right to post, access, discuss, use, publish, disseminate, and refine 
-Your Submissions. 
+# Expert Group Submissions 
+Submissions from members of the expert group are under the terms of the
+[Java Specification Participation Agreement](https://jcp.org/aboutJava/communityprocess/JSPA.pdf).
+
+# Other Contributions
+For all project Submissions from others, the following also applies:
+Oracle does not claim ownership of Your Submissions. However, in order
+to fulfill the purposes of this project, You must give Oracle and all
+Users the right to post, access, discuss, use, publish, disseminate,
+and refine Your Submissions.
 
 In legalese: *You hereby grant to Oracle and all 
 Users a royalty-free, perpetual, irrevocable, worldwide, non-exclusive, 

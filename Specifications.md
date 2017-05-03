@@ -1,5 +1,7 @@
 # Specifications
 
+> XXX - This page needs to be updated after the move to github.
+
 This table contains useful links for Java EE specifications:
 
 * The home page for the specification project.
