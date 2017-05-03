@@ -19,11 +19,11 @@ cloud and microservices applications!
 ## Java EE 8
 
 Work is now underway on Java EE 8 under
-[366](JSR)(https://jcp.org/en/jsr/detail?id=366).
+[JSR 366](https://jcp.org/en/jsr/detail?id=366).
 The Spec Leads for Java EE 8 are 
 Linda DeMichiel and Bill Shannon.
 A full list of the Expert Group members can be found on the
-[366 page](JSR)(http://jcp.org/en/jsr/summary?id=366).
+[JSR 366 page](http://jcp.org/en/jsr/summary?id=366).
 
 At JavaOne 2016, we presented our
 [proposed update to our Java EE 8 plans](https://java.net/projects/javaee-spec/downloads/download/JavaEE8Update.pdf).

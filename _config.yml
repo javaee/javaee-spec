@@ -1,17 +1,16 @@
 theme: jekyll-theme-architect
 
-title: [Web Site Template]
-description: [Generic Site Template for Java EE related projects]
+title: [Java EE Platform Specification]
+description: [Project for the Java EE Expert Group]
 
 # sidebar links url
 links:
-  download: https://github.com/javaee/website-template/tree/gh-pages
-  source: https://github.com/javaee/website-template
+  download: https://github.com/javaee/javaee-spec/tree/master
+  source: https://github.com/javaee/javaee-spec
   license: LICENSE
   issues_url: site.github.issues_url # project's issue tracker
   #mailinglist:
   #javadocs:
   #docs:
   #faq:
-  #mailinglist:
 
