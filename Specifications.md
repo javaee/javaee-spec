@@ -42,7 +42,7 @@ The Java EE 7 technology page contains
 | [JSTL](https://javaee.github.io/jstl-api/) | [52](https://jcp.org/en/jsr/detail?id=52) | [Issues](https://github.com/javaee/jstl-api/issues) | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | JSP Debugging | [45](https://jcp.org/en/jsr/detail?id=45) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | Dependency Injection | [330](https://jcp.org/en/jsr/detail?id=330) | | [Guice](https://github.com/google/guice) | |
-| [JAX-WS](https://github.com/gf-metro/jaxws) | [224](https://jcp.org/en/jsr/detail?id=224) | [Issues](https://github.com/gf-metro/jaxws/issues) | [JAX-WS RI](https://github.com/gf-metro/jaxws) | [JAX-WS RI Issues](https://github.com/gf-metro/jaxws/issues) |
+| [JAX-WS](https://github.com/javaee/jax-ws-spec) | [224](https://jcp.org/en/jsr/detail?id=224) | [Issues](https://github.com/javaee/jax-ws-spec/issues) | [Metro](https://github.com/javaee/metro-jax-ws) | [Metro Issues](https://github.com/javaee/metro-jax-ws/issues) |
 | Web Services | [109](https://jcp.org/en/jsr/detail?id=109) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | Web Service Metadata | [181](https://jcp.org/en/jsr/detail?id=181) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | JASPIC | [196](https://jcp.org/en/jsr/detail?id=196) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
