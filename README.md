@@ -12,7 +12,7 @@ transactions, and interoperability.
 ## Java EE Community Survey
 
 Results from the Java EE Community Survey are available
-[here](download/Java_EE_Survey_Results_December_2016.pdf).
+[here](download/Java%20EE%20Survey%20Results%20December%202016.pdf).
 Thanks for telling us how to evolve Java EE for the next generation of
 cloud and microservices applications!
 
