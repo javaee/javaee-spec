@@ -12,7 +12,7 @@ transactions, and interoperability.
 ## Java EE Community Survey
 
 Results from the Java EE Community Survey are available
-[here](https://java.net/projects/javaee-spec/downloads/download/Java%20EE%20Survey%20Results%20December%202016.pdf).
+[here](download/Java_EE_Survey_Results_December_2016.pdf).
 Thanks for telling us how to evolve Java EE for the next generation of
 cloud and microservices applications!
 
@@ -26,29 +26,31 @@ A full list of the Expert Group members can be found on the
 [JSR 366 page](http://jcp.org/en/jsr/summary?id=366).
 
 At JavaOne 2016, we presented our
-[proposed update to our Java EE 8 plans](https://java.net/projects/javaee-spec/downloads/download/JavaEE8Update.pdf).
+[proposed update to our Java EE 8 plans](download/JavaEE8Update.pdf).
 We'll decide exactly what updates to make based on the results of our
 [survey](http://glassfish.org/survey), the results of other community surveys,
 feedback from licensees, customers, and developers, and
-[discussions in the platform expert group](https://java.net/projects/javaee-spec/lists/jsr366-experts/archive).
+[discussions in the platform expert group](https://javaee.groups.io/g/javaee-spec/topics).
 
 We also presented some of our thoughts for future Java EE releases in
-[Enterprise Java for the Cloud](https://java.net/projects/javaee-spec/downloads/download/JavaEE9.pdf) and
-[Portable Cloud Applications with Java EE](https://java.net/projects/javaee-spec/downloads/download/PortableAppFinal.pdf).
+[Enterprise Java for the Cloud](download/JavaEE9.pdf) and
+[Portable Cloud Applications with Java EE](download/PortableAppFinal.pdf).
 
 Before our first proposal for Java EE 8 in 2014, we conducted an
 extensive Java EE 8 Community Survey.  You can read about the
 questions we asked and see the results 
-[here](https://java.net/projects/javaee-spec/downloads/download/JavaEE8_Community_Survey_Results.pdf).
+[here](download/JavaEE8_Community_Survey_Results.pdf).
 A number of the potential features we described in the survey
 received strong support by the community.  To get further input, we then also
 asked community members to tell us how they would prioritize among
 these.  The results from this last part of the survey are described
 [here](https://blogs.oracle.com/ldemichiel/entry/results_from_the_java_ee).
 
-If you have further feedback for us, please join this project (if you
-are not already a member), and post to
-[users@javaee-spec.java.net](mailto:users@javaee-spec.java.net)
+If you have further feedback for us, please join the
+[javaee group](https://javaee.groups.io/g/javaee)
+and the [javaee-spec subgroup](https://javaee.groups.io/g/javaee-spec)
+and post to
+[javaee-spec@javaee.groups.io](mailto:javaee-spec@javaee.groups.io)
 for further discussion.
 
 ## Java EE 7
@@ -64,9 +66,9 @@ contributed to Java EE 7 on the
 ## Project Communication
 
 You can track all the platform expert group communication by
-subscribing to the "users" mailing list.  To subscribe, or to
+subscribing to the javaee-spec mailing list.  To subscribe, or to
 browse the archives, see the
-[Mailing Lists](http://java.net/projects/javaee-spec/lists) page.
+[javaee-spec group](https://javaee.groups.io/g/javaee-spec) page.
 
 You can find the drafts of proposals and other working
 documents on the [Documents](Documents) page.

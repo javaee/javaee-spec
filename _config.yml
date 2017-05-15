@@ -9,8 +9,8 @@ links:
   source: https://github.com/javaee/javaee-spec
   license: LICENSE
   issues_url: site.github.issues_url # project's issue tracker
-  #mailinglist:
-  #javadocs:
+  mailinglist: https://javaee.groups.io/g/javaee-spec
+  javadocs: javadocs
   #docs:
   #faq:
 
