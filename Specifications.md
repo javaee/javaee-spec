@@ -1,5 +1,7 @@
 # Specifications
 
+## Java EE Specifications
+
 This table contains useful links for Java EE specifications:
 
 * The home page for the specification project.
@@ -20,7 +22,6 @@ The Java EE 7 technology page contains
 | [Java Persistence API](https://github.com/javaee/jpa-spec) | [338](https://jcp.org/en/jsr/detail?id=338) | [Issues](https://github.com/javaee/jpa-spec/issues) | [EclipseLink](https://www.eclipse.org/eclipselink/) | [Eclipse Bugzilla](http://wiki.eclipse.org/EclipseLink/Bugs) |
 | [JAX-RS](https://github.com/jax-rs) | [370](https://jcp.org/en/jsr/detail?id=370) | [Issues](https://github.com/jax-rs/api/issues) | [Jersey](https://jersey.github.io/) | [Jersey Issues](https://github.com/jersey/jersey/issues) |
 | [JSF](https://javaee.github.io/javaserverfaces-spec/) | [372](https://jcp.org/en/jsr/detail?id=372) | [Issues](https://github.com/javaee/javaserverfaces-spec/issues) | [Mojarra](https://github.com/javaserverfaces/mojarra) | [Mojarra Issues](https://github.com/javaserverfaces/mojarra/issues) |
-| [MVC](https://www.mvc-spec.org/) | [371](https://jcp.org/en/jsr/detail?id=371) | [Issues](https://github.com/mvc-spec/mvc-spec/issues) | [Ozark](https://github.com/mvc-spec/ozark) | [Ozark Issues](https://github.com/mvc-spec/ozark/issues) |
 | [JMS](https://javaee.github.io/jms-spec/) | [368](https://jcp.org/en/jsr/detail?id=368) | [Issues](https://github.com/javaee/jms-spec/issues) | [Open MQ](https://javaee.github.io/openmq/) | [Open MQ Issues](https://github.com/javaee/openmq/issues) |
 | [Expression Language](https://github.com/javaee/el-spec) | [341](https://jcp.org/en/jsr/detail?id=341) | [Issues](https://github.com/javaee/el-spec/issues) | [UEL](https://javaee.github.io/uel-ri/) | [UEL Issues](https://github.com/javaee/uel-ri/issues) |
 | [JSON Processing](https://javaee.github.io/json-processing-spec/) | [374](https://jcp.org/en/jsr/detail?id=374) | [Issues](https://github.com/javaee/json-processing-spec/issues) | [JSONP](https://javaee.github.io/jsonp/) | [JSONP Issues](https://github.com/javaee/jsonp/issues) |
@@ -48,3 +49,16 @@ The Java EE 7 technology page contains
 | JAXR (Optional) | [93](https://jcp.org/en/jsr/detail?id=93) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | JAX-RPC (Optional) | [101](https://jcp.org/en/jsr/detail?id=101) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | Deployment (Optional) | [88](https://jcp.org/en/jsr/detail?id=88) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
+
+<br/>
+<br/>
+<br/>
+
+## Related Specifications
+
+The following specifications are not currently included in Java EE, but may be
+of interest to Java EE developers.
+
+| Technology | JSR | Spec Bugs | Reference Implementation | RI Bugs |
+|:-----------|:----|:----------|:-------------------------|:--------|
+| [MVC](https://www.mvc-spec.org/) | [371](https://jcp.org/en/jsr/detail?id=371) | [Issues](https://github.com/mvc-spec/mvc-spec/issues) | [Ozark](https://github.com/mvc-spec/ozark) | [Ozark Issues](https://github.com/mvc-spec/ozark/issues) |
