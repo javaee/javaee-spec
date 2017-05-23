@@ -77,3 +77,5 @@ of interest to Java EE developers.
 | Technology | JSR | Spec Bugs | Reference Implementation | RI Bugs |
 |:-----------|:----|:----------|:-------------------------|:--------|
 | [MVC](https://www.mvc-spec.org/) | [371](https://jcp.org/en/jsr/detail?id=371) | [Issues](https://github.com/mvc-spec/mvc-spec/issues) | [Ozark](https://github.com/mvc-spec/ozark) | [Ozark Issues](https://github.com/mvc-spec/ozark/issues) |
+| [Portlet](https://portals.apache.org/pluto/) | [362](https://jcp.org/en/jsr/detail?id=362) | [Issues](https://github.com/portlet-spec/portlet-spec/issues) | [Pluto](https://portals.apache.org/pluto) | [Pluto Issues](https://issues.apache.org/jira/browse/PLUTO) |
+| [FacesBridge](http://www.liferayfaces.org/web/guest/jcp/jsr-378) | [378](https://jcp.org/en/jsr/detail?id=378) | [Issues](https://issues.liferay.com/issues/?jql=project%20%3D%20FACES%20AND%20component%20in%20%28%22FacesBridge%20API%22%2C%20%22FacesBridge%20Spec%22%2C%20%22FacesBridge%20TCK%22%29) | [Liferay Faces Bridge](http://www.liferay.com/community/liferay-projects/liferay-faces/overview) | [Liferay Faces Bridge Issues](https://issues.liferay.com/projects/FACES/issues) |
