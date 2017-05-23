@@ -19,7 +19,7 @@ The Java EE 7 technology page contains
 | [Platform](https://javaee.github.io/javaee-spec/) | [366](https://jcp.org/en/jsr/detail?id=366) | [Issues](https://github.com/javaee/javaee-spec/issues) | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | [Servlets](https://github.com/javaee/servlet-spec) | [369](https://jcp.org/en/jsr/detail?id=369) | [Issues](https://github.com/javaee/servlet-spec/issues) | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | [EJB](https://github.com/javaee/ejb-spec) | [345](https://jcp.org/en/jsr/detail?id=345) | [Issues](https://github.com/javaee/ejb-spec/issues) | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
-| [Java Persistence API](https://github.com/javaee/jpa-spec) | [338](https://jcp.org/en/jsr/detail?id=338) | [Issues](https://github.com/javaee/jpa-spec/issues) | [EclipseLink](https://www.eclipse.org/eclipselink/) | [Eclipse Bugzilla](http://wiki.eclipse.org/EclipseLink/Bugs) |
+| [Java Persistence API](https://github.com/javaee/jpa-spec) | [338](https://jcp.org/en/jsr/detail?id=338) | [Issues](https://github.com/javaee/jpa-spec/issues) | [EclipseLink](https://www.eclipse.org/eclipselink/) | [Eclipse Bugzilla](https://wiki.eclipse.org/EclipseLink/Development/Bugs) |
 | [JAX-RS](https://github.com/jax-rs) | [370](https://jcp.org/en/jsr/detail?id=370) | [Issues](https://github.com/jax-rs/api/issues) | [Jersey](https://jersey.github.io/) | [Jersey Issues](https://github.com/jersey/jersey/issues) |
 | [JSF](https://javaee.github.io/javaserverfaces-spec/) | [372](https://jcp.org/en/jsr/detail?id=372) | [Issues](https://github.com/javaee/javaserverfaces-spec/issues) | [Mojarra](https://github.com/javaserverfaces/mojarra) | [Mojarra Issues](https://github.com/javaserverfaces/mojarra/issues) |
 | [JMS](https://javaee.github.io/jms-spec/) | [368](https://jcp.org/en/jsr/detail?id=368) | [Issues](https://github.com/javaee/jms-spec/issues) | [Open MQ](https://javaee.github.io/openmq/) | [Open MQ Issues](https://github.com/javaee/openmq/issues) |
@@ -41,7 +41,6 @@ The Java EE 7 technology page contains
 | [JSTL](https://javaee.github.io/jstl-api/) | [52](https://jcp.org/en/jsr/detail?id=52) | [Issues](https://github.com/javaee/jstl-api/issues) | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | JSP Debugging | [45](https://jcp.org/en/jsr/detail?id=45) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | Dependency Injection | [330](https://jcp.org/en/jsr/detail?id=330) | | [Guice](https://github.com/google/guice) | |
-| [JAX-WS](https://github.com/javaee/jax-ws-spec) | [224](https://jcp.org/en/jsr/detail?id=224) | [Issues](https://github.com/javaee/jax-ws-spec/issues) | [Metro](https://github.com/javaee/metro-jax-ws) | [Metro Issues](https://github.com/javaee/metro-jax-ws/issues) |
 | Web Services | [109](https://jcp.org/en/jsr/detail?id=109) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | Web Service Metadata | [181](https://jcp.org/en/jsr/detail?id=181) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | JASPIC | [196](https://jcp.org/en/jsr/detail?id=196) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
@@ -49,6 +48,22 @@ The Java EE 7 technology page contains
 | JAXR (Optional) | [93](https://jcp.org/en/jsr/detail?id=93) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | JAX-RPC (Optional) | [101](https://jcp.org/en/jsr/detail?id=101) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | Deployment (Optional) | [88](https://jcp.org/en/jsr/detail?id=88) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
+
+<br/>
+<br/>
+<br/>
+
+## Java SE Specifications
+
+The following specifications were introduced as part of Java EE, but are now
+included in Java SE.
+
+| Technology | JSR | Spec Bugs | Reference Implementation | RI Bugs |
+|:-----------|:----|:----------|:-------------------------|:--------|
+| [JAX-WS](https://github.com/javaee/jax-ws-spec) | [224](https://jcp.org/en/jsr/detail?id=224) | [Issues](https://github.com/javaee/jax-ws-spec/issues) | [Metro](https://github.com/javaee/metro-jax-ws) | [Metro Issues](https://github.com/javaee/metro-jax-ws/issues) |
+| [JAXB](https://github.com/javaee/jaxb-spec) | [222](https://jcp.org/en/jsr/detail?id=222) | [Issues](https://github.com/javaee/jaxb-spec/issues) | [Metro JAXB](https://github.com/javaee/jaxb-v2) | [Metro JAXB Issues](https://github.com/javaee/jaxb-v2/issues) |
+| [SAAJ](https://github.com/javaee/javax.xml.soap) | [67](https://jcp.org/en/jsr/detail?id=67) | [Issues](https://github.com/javaee/javax.xml.soap/issues) | [Metro SAAJ](https://github.com/javaee/metro-saaj) | [Metro SAAJ Issues](https://github.com/javaee/metro-saaj/issues) |
+| [JavaBeans Activation Framework](https://github.com/javaee/activation) | [925](https://jcp.org/en/jsr/detail?id=925) | [Issues](https://github.com/javaee/activation/issues) | [JAF](https://github.com/javaee/activation) | [JAF](https://github.com/javaee/activation/issues) |
 
 <br/>
 <br/>
