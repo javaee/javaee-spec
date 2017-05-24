@@ -42,7 +42,6 @@ The Java EE 7 technology page contains
 | JSP Debugging | [45](https://jcp.org/en/jsr/detail?id=45) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | Dependency Injection | [330](https://jcp.org/en/jsr/detail?id=330) | | [Guice](https://github.com/google/guice) | |
 | Web Services | [109](https://jcp.org/en/jsr/detail?id=109) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
-| Web Service Metadata | [181](https://jcp.org/en/jsr/detail?id=181) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | JASPIC | [196](https://jcp.org/en/jsr/detail?id=196) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | JAAC | [115](https://jcp.org/en/jsr/detail?id=115) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | JAXR (Optional) | [93](https://jcp.org/en/jsr/detail?id=93) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
@@ -61,6 +60,7 @@ included in Java SE.
 | Technology | JSR | Spec Bugs | Reference Implementation | RI Bugs |
 |:-----------|:----|:----------|:-------------------------|:--------|
 | [JAX-WS](https://github.com/javaee/jax-ws-spec) | [224](https://jcp.org/en/jsr/detail?id=224) | [Issues](https://github.com/javaee/jax-ws-spec/issues) | [Metro](https://github.com/javaee/metro-jax-ws) | [Metro Issues](https://github.com/javaee/metro-jax-ws/issues) |
+| Web Service Metadata | [181](https://jcp.org/en/jsr/detail?id=181) | | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | [JAXB](https://github.com/javaee/jaxb-spec) | [222](https://jcp.org/en/jsr/detail?id=222) | [Issues](https://github.com/javaee/jaxb-spec/issues) | [Metro JAXB](https://github.com/javaee/jaxb-v2) | [Metro JAXB Issues](https://github.com/javaee/jaxb-v2/issues) |
 | [SAAJ](https://github.com/javaee/javax.xml.soap) | [67](https://jcp.org/en/jsr/detail?id=67) | [Issues](https://github.com/javaee/javax.xml.soap/issues) | [Metro SAAJ](https://github.com/javaee/metro-saaj) | [Metro SAAJ Issues](https://github.com/javaee/metro-saaj/issues) |
 | [JavaBeans Activation Framework](https://github.com/javaee/activation) | [925](https://jcp.org/en/jsr/detail?id=925) | [Issues](https://github.com/javaee/activation/issues) | [JAF](https://github.com/javaee/activation) | [JAF](https://github.com/javaee/activation/issues) |
