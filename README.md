@@ -73,6 +73,10 @@ browse the archives, see the
 You can find the drafts of proposals and other working
 documents on the [Documents](Documents) page.
 
+All downloads of (current and historical) proposals, draft specifications,
+presentations, survey results, etc. are available in the
+[repository](https://github.com/javaee/javaee-spec/tree/master/download).
+
 ## Other Java EE Specifications
 
 [This table](Specifications) contains links to the project pages for
