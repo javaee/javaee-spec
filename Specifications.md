@@ -16,7 +16,9 @@ The Java EE 7 technology page contains
 
 | Technology | JSR | Spec Bugs | Reference Implementation | RI Bugs |
 |:-----------|:----|:----------|:-------------------------|:--------|
-| [Platform](https://javaee.github.io/javaee-spec/) | [366](https://jcp.org/en/jsr/detail?id=366) | [Issues](https://github.com/javaee/javaee-spec/issues) | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
+| [Java EE Platform](https://javaee.github.io/javaee-spec/) | [366](https://jcp.org/en/jsr/detail?id=366) | [Issues](https://github.com/javaee/javaee-spec/issues) | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
+| [Java EE Web Profile](https://javaee.github.io/javaee-spec/) | [366](https://jcp.org/en/jsr/detail?id=366) | [Issues](https://github.com/javaee/javaee-spec/issues) | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
+| [Managed Beans](https://javaee.github.io/javaee-spec/) | [366](https://jcp.org/en/jsr/detail?id=366) | [Issues](https://github.com/javaee/javaee-spec/issues) | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | [Servlets](https://github.com/javaee/servlet-spec) | [369](https://jcp.org/en/jsr/detail?id=369) | [Issues](https://github.com/javaee/servlet-spec/issues) | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | [EJB](https://github.com/javaee/ejb-spec) | [345](https://jcp.org/en/jsr/detail?id=345) | [Issues](https://github.com/javaee/ejb-spec/issues) | [GlassFish](https://javaee.github.io/glassfish/) | [GlassFish Issues](https://github.com/javaee/glassfish/issues) |
 | [Java Persistence API](https://github.com/javaee/jpa-spec) | [338](https://jcp.org/en/jsr/detail?id=338) | [Issues](https://github.com/javaee/jpa-spec/issues) | [EclipseLink](https://www.eclipse.org/eclipselink/) | [Eclipse Bugzilla](https://wiki.eclipse.org/EclipseLink/Development/Bugs) |
