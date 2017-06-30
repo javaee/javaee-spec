@@ -5,7 +5,7 @@ description: [Project for the Java EE Expert Group]
 
 # sidebar links url
 links:
-  download: https://github.com/javaee/javaee-spec/tree/master
+  download: https://jcp.org/en/jsr/detail?id=366
   source: https://github.com/javaee/javaee-spec
   license: LICENSE
   issues_url: site.github.issues_url # project's issue tracker
