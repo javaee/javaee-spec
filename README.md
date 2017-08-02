@@ -71,7 +71,7 @@ browse the archives, see the
 [javaee-spec group](https://javaee.groups.io/g/javaee-spec) page.
 
 You can find the drafts of proposals and other working
-documents on the [Documents](Documents) page.
+documents on the [Documents](Documents.md) page.
 
 All downloads of (current and historical) proposals, draft specifications,
 presentations, survey results, etc. are available in the
@@ -79,28 +79,28 @@ presentations, survey results, etc. are available in the
 
 ## Other Java EE Specifications
 
-[This table](Specifications) contains links to the project pages for
+[This table](Specifications.md) contains links to the project pages for
 other Java EE specifications.
 
 ## Compatibility Requirements
 
 The rules we follow to ensure backwards compatibility when revising
 Java EE specifications are described on the
-[Compatibility Requirements](CompatibilityRequirements) page.
+[Compatibility Requirements](CompatibilityRequirements.md) page.
 
 
 ## JCP Processes
 
 The use of JCP processes by the Java EE group at Oracle is described on the
-[JCP Processes](JCPProcesses) page.
+[JCP Processes](JCPProcesses.md) page.
 
 ## Annotation Rules
 
 Annotations are used heavily in the Java EE programming model.
 It's important that all Java EE specifications define and use
 annotations in a consistent way.
-We've written up some [DRAFT rules on how annotations work](AnnotationRules).
+We've written up some [DRAFT rules on how annotations work](AnnotationRules.md).
 
 ## About "JEE"
 
-For more about "JEE", see [this page](JEE).
+For more about "JEE", see [this page](JEE.md).
