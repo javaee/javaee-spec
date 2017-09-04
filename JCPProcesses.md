@@ -92,5 +92,5 @@ the clarifications in the errata apply to only the newly defined
 version of the API. For this reason it's usually best to separate
 errata and API changes into separate Maintenance Releases.
 
-See [Versioning](Versioning) for more on versioning of APIs and specification
+See [Versioning](Versioning.md) for more on versioning of APIs and specification
 documents.
