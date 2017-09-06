@@ -12,7 +12,8 @@ transactions, and interoperability.
 The [Specifications](Specifications) page contains links to the project
 pages for other Java EE specifications.
 
-(Be sure to view this page at https://javaee.github.io/javaee-spec/,
+(Be sure to view this page at
+[https://javaee.github.io/javaee-spec/](https://javaee.github.io/javaee-spec/),
 not at the GitHub source code repository view, so that the links in
 this page will work correctly.)
 
