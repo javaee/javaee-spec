@@ -9,6 +9,26 @@ overall Java EE platform.  The platform specification also defines
 other attributes of the platform such as security, deployment,
 transactions, and interoperability.
 
+The [Specifications](Specifications) page contains links to the project
+pages for other Java EE specifications.
+
+(Be sure to view this page at https://javaee.github.io/javaee-spec/,
+not at the GitHub source code repository view, so that the links in
+this page will work correctly.)
+
+## Java EE 8
+
+Java EE 8 was approved by the JCP EC on Aug 21, 2017.
+The final specification is available for download on the
+[JSR 366 page](https://jcp.org/en/jsr/detail?id=366)
+and can also be found [here](download/JavaEE8_Platform_Spec_FinalRelease.pdf).
+The javadocs for the entire platform are available [here](javadocs).
+
+The Spec Leads for Java EE 8 were
+Linda DeMichiel and Bill Shannon.
+A full list of the Expert Group members can be found on the
+[JSR 366 page](http://jcp.org/en/jsr/summary?id=366).
+
 ## Java EE Community Survey
 
 Results from the Java EE Community Survey are available
@@ -16,14 +36,7 @@ Results from the Java EE Community Survey are available
 Thanks for telling us how to evolve Java EE for the next generation of
 cloud and microservices applications!
 
-## Java EE 8
-
-Work is now underway on Java EE 8 under
-[JSR 366](https://jcp.org/en/jsr/detail?id=366).
-The Spec Leads for Java EE 8 are 
-Linda DeMichiel and Bill Shannon.
-A full list of the Expert Group members can be found on the
-[JSR 366 page](http://jcp.org/en/jsr/summary?id=366).
+## Java EE 8 Planning
 
 At JavaOne 2016, we presented our
 [proposed update to our Java EE 8 plans](download/JavaEE8Update.pdf).
@@ -77,17 +90,11 @@ All downloads of (current and historical) proposals, draft specifications,
 presentations, survey results, etc. are available in the
 [repository](https://github.com/javaee/javaee-spec/tree/master/download).
 
-## Other Java EE Specifications
-
-[This table](Specifications) contains links to the project pages for
-other Java EE specifications.
-
 ## Compatibility Requirements
 
 The rules we follow to ensure backwards compatibility when revising
 Java EE specifications are described on the
 [Compatibility Requirements](CompatibilityRequirements) page.
-
 
 ## JCP Processes
 
