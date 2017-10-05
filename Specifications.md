@@ -10,7 +10,7 @@ This table contains useful links for Java EE specifications:
 * The home page for the reference implementation project.
 * Where to file bugs against the reference implementation.
 
-The Java EE 7 technology page contains
+The Java EE 8 technology page contains
 [links to the JCP JSR pages and the specification download pages](http://www.oracle.com/technetwork/java/javaee/tech/index.html).
 
 
