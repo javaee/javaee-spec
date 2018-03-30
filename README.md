@@ -9,8 +9,18 @@ overall Java EE platform.  The platform specification also defines
 other attributes of the platform such as security, deployment,
 transactions, and interoperability.
 
+## API Specifications
+
+The API specifications for the Java EE platform are collected together here:
+
+* [Java APIs](https://javaee.github.io/javaee-spec/javadocs)
+* [JSF Facelets Tag Library](https://javaee.github.io/glassfish/doc/5.0/vdldoc/)
+* [JSF JSP Tag Library](https://javaee.github.io/glassfish/doc/5.0/vdldocs/jsp/)
+* [Standard HTML RenderKit](https://javaee.github.io/glassfish/doc/5.0/renderkitdocs/)
+* [JSF JavaScript Documentation](https://javaee.github.io/glassfish/doc/5.0/jsdocs/index.html)
+
 The [Specifications](Specifications) page contains links to the project
-pages for other Java EE specifications.
+pages for all Java EE specifications.
 
 (Be sure to view this page at
 [https://javaee.github.io/javaee-spec/](https://javaee.github.io/javaee-spec/),
