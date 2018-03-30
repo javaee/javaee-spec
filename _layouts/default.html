@@ -46,7 +46,14 @@
             {% endif %}
             
             {% if site.links.javadocs %}
-              <h2><a href="{{ site.links.javadocs }}"><p>APIs</p></a></h2>
+              <h2><p>APIs</p></h2>
+              <ul>
+                <p><a href="{{ site.links.javadocs }}">Specification APIs</a><br>
+                   <a href="https://javaee.github.io/glassfish/doc/5.0/vdldoc/">JSF Facelets Tag Library Documentation</a><br>
+                   <a href="https://javaee.github.io/glassfish/doc/5.0/vdldocs/jsp/">JSF JSP Tag Library Documentation</a><br>
+                   <a href="https://javaee.github.io/glassfish/doc/5.0/renderkitdocs/">Standard HTML RenderKit Documentation</a><br>
+                   <a href="https://javaee.github.io/glassfish/doc/5.0/jsdocs/index.html">JSF JavaScript Documentation</a><br></p>
+              </ul>
             {% endif %}
 
             {% if site.links.docs %}
